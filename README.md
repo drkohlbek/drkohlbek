@@ -1,11 +1,11 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/drkoglbek">Software Engineer With a Passion for Creating Full Stack Web Apps</a></h1>
+<h1>Hi, I'm Daniel! <br/>Software Engineer With a Passion for <br/>Creating Full Stack Web Apps</h1>
 
-<h2>👨‍💻 Full Stack Web Apps:</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>World's first unclaimed veterans database</b>
-  - [NagaDB](http://projectnaga.net)
+  - [NagaDB](https://github.com/drkohlbek/NagaDB)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Demo Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
