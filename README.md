@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/drkoglbek">Software Engineer With a Passion for Creating Full Stack Web Apps</a></h1>
 
 <h2>👨‍💻 Full Stack Web Apps:</h2>
 
