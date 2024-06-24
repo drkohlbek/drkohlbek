@@ -9,4 +9,4 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-- [NagaDB](https://github.com/drkohlbek/NagaDB)
+- [LinkedIn](https://www.linkedin.com/in/daniel-kohlbek-895a4a259/)
