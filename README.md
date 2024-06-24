@@ -10,3 +10,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 - <a href="https://www.linkedin.com/in/daniel-kohlbek-895a4a259/"> LinkedIn </a>
+- Email: drkohlbek@projectnaga.org
