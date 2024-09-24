@@ -5,7 +5,10 @@
 - <b>World's first unclaimed veterans database</b>
   - [NagaDB](https://github.com/drkohlbek/NagaDB)
 
+<!--
+
 <h2>📺 Demo Videos</h2>
+-->
 
 
 <h2> 🤳 Connect with me:</h2>
